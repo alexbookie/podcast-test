@@ -3,12 +3,12 @@
   <channel>
     <title>Test Podcast for Yoto</title>
     <description>Testing if Yoto can play a simple static feed</description>
-    <link>https://YOURUSERNAME.github.io/podcast-test</link>
+    <link>https://alexbookie.github.io/podcast-test</link>
     <item>
       <title>Test Episode One</title>
       <description>A simple test episode</description>
       <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
-      <enclosure url="https://YOURUSERNAME.github.io/podcast-test/episode1.mp3" type="audio/mpeg" length="1000000"/>
+      <enclosure url="https://alexbookie.github.io/podcast-test/episode1.mp3" type="audio/mpeg" length="1000000"/>
       <guid>test-episode-1</guid>
     </item>
   </channel>
